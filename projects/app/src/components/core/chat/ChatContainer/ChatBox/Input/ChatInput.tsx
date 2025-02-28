@@ -228,7 +228,7 @@ const ChatInput = ({
           }
           resize={'none'}
           rows={1}
-          height={'22px'}
+          height={'50px'}
           lineHeight={'22px'}
           maxHeight={'50vh'}
           maxLength={-1}
